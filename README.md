@@ -21,7 +21,7 @@
 |                                   이동헌                                     |                                       박주영                                        |             김미진                                                                  |                                                                                     
 |:--------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
 | <img width="160px" src="https://avatars.githubusercontent.com/u/80760160?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/52206904?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/112682489?v=4"/> |
-|                 [@Sirius506775](https://github.com/Sirius506775)                 |                      [@mythpoy](https://github.com/jyp-on)                      |                    [@mijin0721](https://github.com/mijin0721)                    |
+|                 [@Sirius506775](https://github.com/Sirius506775)                 |                      [@jyp-on](https://github.com/jyp-on)                      |                    [@mijin0721](https://github.com/mijin0721)                    |
 |                                한림대학교 빅데이터전공  4학년                                 |   한림대학교 콘텐츠IT전공 3학년   |                                 한림대학교 빅데이터전공 4학년                                 | 
 |                                항상 잠이 부족한 팀장                                 |  능력 좋은 부팀장   |                                성실의 아이콘 최고의 팀원                                  | 
 
